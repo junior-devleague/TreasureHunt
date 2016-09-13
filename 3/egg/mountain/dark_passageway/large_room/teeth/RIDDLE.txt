@@ -1,0 +1,12 @@
+../TreasureHunt/3/egg/vines/Nunu/pasRoss is throwing a party. To avoid uninvited guests, he had his guard set up a dynamic password 
+system.
+Dean (an uninvited guest) plans to enter the party. He stood nearby the door and watched people enter.
+
+Kirk approaches the door and the guard says "twelve". Kirk replies "six" and is allowed into the party.
+Noah then approaches the door and the guard says "six". Noah replies "three" and enters the party.
+
+Dean, confident that he understands the system, approaches the door. The guard says "eight".
+Dean replies "four" and gets escorted off the property.
+
+What should Dean have said?
+
