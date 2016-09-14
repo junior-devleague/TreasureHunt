@@ -1,5 +1,4 @@
-../TreasureHunt/3/egg/vines/Nunu/pasRoss is throwing a party. To avoid uninvited guests, he had his guard set up a dynamic password 
-system.
+Ross is throwing a party. To avoid uninvited guests, he had his guard set up a dynamic password system.
 Dean (an uninvited guest) plans to enter the party. He stood nearby the door and watched people enter.
 
 Kirk approaches the door and the guard says "twelve". Kirk replies "six" and is allowed into the party.
